@@ -18,6 +18,11 @@ Architecture to support authorized logins into the PCN-KIDS Admin Portal. Only s
 Core set of details for each of the awardees in the program.
 
 
+## Student Grades
+
+Core set of details to assess and evaluate the progression of each awardee in the program.
+
+
 ## Events Tracking
 
 Maintain details about upcoming and past events including: seminars, fundraisers, board meetings, elections, filing deadlines.
