@@ -16,15 +16,14 @@ Architecture to support authorized logins into the PCN-KIDS Admin Portal. Only s
 Core set of details for each of the awardees in the program.
 
 
-
 ## Events Tracking
 
 Maintain details about upcoming and past events including: seminars, fundraisers, board meetings, elections, filing deadlines.
 
 ## Donor Management
 
-Track esse, Intial details about Donors and their statuses (i.e Active, Egnaged, Identified)
+Track essential details about Donors and their statuses (i.e Active, Egnaged, Identified).
 
 ## Vendor Services
 
-Track details for the key vendor relations that we have PCN-KIDS Awardees
+Track details for the key vendor relations that we have PCN-KIDS Awardees.
